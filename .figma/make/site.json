@@ -1,0 +1,10 @@
+{
+  "description": "A faithful recreation of the provided design, delivering a polished, visually consistent front-end experience with accurate illustrations, icons, and branding.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
